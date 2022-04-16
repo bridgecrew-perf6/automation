@@ -1,8 +1,7 @@
 # Ansible Scripts for Automations
-# Ansible Containers Script
-This is a playbook to backup cisco switch configuration, made to run on a daily base
 
-# Create an Ansible playbook to configure, provision, retrieve new Container IPs, and Update the Inventory file for future use
+## Create an Ansible playbook to configure, provision, retrieve new Container IPs, and Update the Inventory file for future use
+
 
 ## Ansible Cisco Switch Backup
 This is a playbook to backup cisco switch configuration, made to run on a daily base
