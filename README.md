@@ -1,5 +1,7 @@
 # Ansible Scripts for Automations
-https://github.com/gil906/automation/docker/1_1Sgx9cqa-nCwva6aDYq9uQ.png
+
+![alt text](https://github.com/gil906/automation/docker/1_1Sgx9cqa-nCwva6aDYq9uQ.png?raw=true)
+
 ## Create an Ansible playbook to configure, provision, retrieve new Container IPs, and Update the Inventory file for future use
 
 
